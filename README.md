@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0A66C2&center=true&vCenter=true&width=650&lines=Digital+Twin;Robotics;Industrial+Automation;PLC+%2F+SCADA+Developer;IoT+%26+Smart+Systems+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0A66C2&center=true&vCenter=true&width=650&lines=Digital+Twin+Enthusiast;Robotics+Developer;Industrial+Automation+Devotee;PLC+%2F+SCADA+Developer;IoT+%26+Smart+Systems+Engineer" />
 </p>
 
 ---
